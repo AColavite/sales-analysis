@@ -1,0 +1,6 @@
+date,product,region,quantity,unit_price
+2023-01-01,Laptop,Southeast,2,1500
+2023-01-02,Smartphone,South,5,799
+2023-01-03,Monitor,North,3,1200
+2023-01-04,Keyboard,Southeast,4,150
+2023-01-05,Mouse,Southeast,6,50

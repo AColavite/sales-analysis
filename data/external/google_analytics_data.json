@@ -1,0 +1,15 @@
+[
+    {
+      "date": "2023-01-01",
+      "sessions": 1200,
+      "bounce_rate": 0.5,
+      "pageviews": 4500
+    },
+    {
+      "date": "2023-01-02",
+      "sessions": 1400,
+      "bounce_rate": 0.45,
+      "pageviews": 5100
+    }
+  ]
+  
