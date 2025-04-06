@@ -1,0 +1,10 @@
+---
+title: "Sales Report"
+output: html_document
+---
+
+## Sales Data Summary
+
+```{r}
+sales_summary <- readRDS("reports/sales_summary.rds")
+sales_summary
