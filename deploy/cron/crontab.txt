@@ -1,0 +1,3 @@
+0 3 * * * Rscript ~/sales-analytics/R/scripts/automated_data_pipeline.R
+0 4 * * * Rscript ~/sales-analytics/R/scripts/reports/automated_report.R
+0 5 * * * Rscript ~/sales-analytics/R/scripts/deploy/aws_upload.R
